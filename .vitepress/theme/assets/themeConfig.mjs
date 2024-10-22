@@ -313,7 +313,7 @@ export const themeConfig = {
     twikoo: {
       // 必填，若不想使用 CDN，可以使用 pnpm add twikoo 安装并引入
       js: "https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/twikoo/1.6.39/twikoo.all.min.js",
-      envId: "https://vitepress-theme-curve-git-master-nlxxtws-projects.vercel.app",
+      envId: "https://vitepress-theme-curve-wine.vercel.app/",
       // 环境地域，默认为 ap-shanghai，腾讯云环境填 ap-shanghai 或 ap-guangzhou；Vercel 环境不填
       region: "",
       lang: "zh-CN",
@@ -361,6 +361,12 @@ export const themeConfig = {
   },
   // 音乐播放器
   // https://github.com/imsyy/Meting-API
+  /* 
+      我的接口(能有免费的netease):https://metingjsapi.vercel.app/api?server=${server}&type=${type}&id=${id}
+      官方(仅netease):https://api-meting.example.com/?server=${server}&type=${type}&id=${id}
+      anzhiyu接口(能用qq):https://meting.qjqq.cn/?server=${server}&type=${type}&id=${id}
+      圆弧派接口(netease 有VIP):https://v.iarc.top/?server=${server}&type=${type}&id=${id}
+    */
   music: {
     enable: true,
     // url
@@ -376,8 +382,8 @@ export const themeConfig = {
   // https://www.algolia.com/
   search: {
     enable: false,
-    appId: "",
-    apiKey: "",
+      appId: "XOCTUND3C3",
+    apiKey: "60fff860dc8509b75e44f6d0c5439b74",
   },
   // 打赏
   rewardData: {
