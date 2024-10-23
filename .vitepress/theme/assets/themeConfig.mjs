@@ -14,16 +14,16 @@ export const themeConfig = {
     lang: "zh-CN",
     // 作者
     author: {
-      name: "Admin",
+      name: "zdDown",
       cover: "/images/logo/logo.webp",
       email: "114514@gmail.com",
       link: "https://www.imsyy.top",
     },
   },
   // 备案信息
-  icp: "萌ICP备114514号",
+  icp: "赣ICP备2024033703号-4",
   // 建站日期
-  since: "2020-07-28",
+  since: "2024-10-20",
   // 每页文章数据
   postSize: 8,
   // inject
@@ -315,7 +315,7 @@ export const themeConfig = {
       js: "https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/twikoo/1.6.39/twikoo.all.min.js",
       envId: "https://vitepress-theme-curve-wine.vercel.app/",
       // 环境地域，默认为 ap-shanghai，腾讯云环境填 ap-shanghai 或 ap-guangzhou；Vercel 环境不填
-      region: "",
+      //region: "ap-shanghai",
       lang: "zh-CN",
     },
   },
