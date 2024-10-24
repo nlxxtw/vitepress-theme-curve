@@ -313,7 +313,8 @@ export const themeConfig = {
     twikoo: {
       // 必填，若不想使用 CDN，可以使用 pnpm add twikoo 安装并引入
       js: "https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/twikoo/1.6.39/twikoo.all.min.js",
-      envId: "https://artalk.dalechu.cn",
+      //envId: "https://bg.zddown.icu/",
+      server: "https://artalk.dalechu.cn",
       // 环境地域，默认为 ap-shanghai，腾讯云环境填 ap-shanghai 或 ap-guangzhou；Vercel 环境不填
       //region: "ap-shanghai",
       lang: "zh-CN",
