@@ -3,21 +3,21 @@ export const themeConfig = {
   // 站点信息
   siteMeta: {
     // 站点标题
-    title: "Curve",
+    title: "zdDown",
     // 站点描述
-    description: "Hello World",
+    description: "追风赶月莫停留，平芜尽处是春风！一个有意思得分享站",
     // 站点logo
     logo: "/images/logo/logo.webp",
     // 站点地址
-    site: "https://blog.imsyy.top",
+    site: "https://blog.19492035.xyz",
     // 语言
     lang: "zh-CN",
     // 作者
     author: {
       name: "zdDown",
       cover: "/images/logo/logo.webp",
-      email: "114514@gmail.com",
-      link: "https://www.imsyy.top",
+      email: "chinavredu@gmail.com",
+      link: "https://www.zddown.icu",
     },
   },
   // 备案信息
@@ -301,7 +301,7 @@ export const themeConfig = {
     enable: true,
     // 评论系统选择
     // artalk / twikoo
-    type: "artalk",
+    type: "twikoo",
     // artalk
     // https://artalk.js.org/
     artalk: {
@@ -316,7 +316,7 @@ export const themeConfig = {
       envId: "https://pin.19492035.xyz/",
      
       // 环境地域，默认为 ap-shanghai，腾讯云环境填 ap-shanghai 或 ap-guangzhou；Vercel 环境不填
-      //region: "ap-shanghai",
+      region: "",
       lang: "zh-CN",
     },
   },
