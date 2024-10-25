@@ -154,8 +154,8 @@ export const themeConfig = {
         },
         {
           icon: "/images/logo/logo.webp",
-          name: "博客镜像站",
-          url: "https://blog-backup.imsyy.top/",
+          name: "资源站",
+          url: "https://www.zddown.icu/",
         },
       ],
     },
@@ -165,17 +165,17 @@ export const themeConfig = {
         {
           icon: "https://pic.efefee.cn/uploads/2024/04/08/6613465358077.png",
           name: "起始页",
-          url: "https://nav.imsyy.top/",
+          url: "https://home.19492035.xyz/",
         },
         {
           icon: "https://pic.efefee.cn/uploads/2024/04/08/661346d418ad7.png",
           name: "今日热榜",
-          url: "https://hot.imsyy.top/",
+          url: "https://hot.19492035.xyz/",
         },
         {
           icon: "https://pic.efefee.cn/uploads/2024/04/08/66134722586fa.png",
-          name: "站点监测",
-          url: "https://status.imsyy.top/",
+          name: "大师导航",
+          url: "https://nav.19492035.xyz/",
         },
       ],
     },
