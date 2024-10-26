@@ -5,7 +5,7 @@ export const themeConfig = {
     // 站点标题
     title: "zdDown",
     // 站点描述
-    description: "追风赶月莫停留，平芜尽处是春风！一个有意思得分享站",
+    description: "一个有意思的资源分享站",
     // 站点logo
     logo: "/images/logo/logo.webp",
     // 站点地址
