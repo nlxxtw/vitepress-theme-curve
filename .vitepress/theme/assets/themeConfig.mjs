@@ -382,7 +382,7 @@ export const themeConfig = {
   // 搜索
   // https://www.algolia.com/
   search: {
-    enable: false,
+    enable:  true,
       appId: "XOCTUND3C3",
     apiKey: "60fff860dc8509b75e44f6d0c5439b74",
   },
@@ -390,9 +390,9 @@ export const themeConfig = {
   rewardData: {
     enable: true,
     // 微信二维码
-    wechat: "https://pic.efefee.cn/uploads/2024/04/07/66121049d1e80.webp",
+    wechat: "https://image.vredu.icu/img/微信支付1.jpg",
     // 支付宝二维码
-    alipay: "https://pic.efefee.cn/uploads/2024/04/07/661206631d3b5.webp",
+    alipay: "https://image.vredu.icu/img/支付宝支付5.jpg",
   },
   // 图片灯箱
   fancybox: {
